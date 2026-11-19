@@ -1,0 +1,4 @@
+campus_compute
+*.o
+campus_compute.log
+.DS_Store
