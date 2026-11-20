@@ -1,6 +1,6 @@
 # CampusCompute: Intelligent Job Scheduling and Resource Management
 
-**CampusCompute** is an interactive, modular Operating Systems simulator built in C for Linux/Ubuntu. It demonstrates core OS concepts—including dynamic CPU scheduling, multi-threaded producer-consumer synchronization, POSIX inter-process communication (IPC), Banker's deadlock avoidance, process fault detection, and kernel-level CPU resource governance—through a unified command-line interface.
+**CampusCompute** is an interactive, modular Operating Systems simulator built in C for Linux/Ubuntu. It demonstrates core OS concepts—including dynamic CPU scheduling, multi threaded producer consumer synchronization, POSIX inter process communication (IPC), Banker's deadlock avoidance, process fault detection, and kernel level CPU resource governance through a unified command line interface.
 
 ---
 
